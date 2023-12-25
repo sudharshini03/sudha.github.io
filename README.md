@@ -1,2 +1,2 @@
 # website1.github.io
-This is all about a partial restaurant website which is only built by html and css
+This represents a snapshot of a restaurant's digital presence, meticulously crafted solely with HTML and CSS
